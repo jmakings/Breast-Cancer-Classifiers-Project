@@ -12,6 +12,6 @@ Our methods and results for implementing these classifiers is described in the r
 
 For more information about SILVER-Seq and the paper from Dr. Sheng Zhong's lab that enspired this project, the paper [Zhou et al., Extracellular RNA in a single droplet of human serum reflects physiologic and disease states](https://www.pnas.org/doi/10.1073/pnas.1908252116) goes into greater detail on this technology. 
 
-The data used is courtesy of Dr. Sheng Zhong, which can be found on his lab [github.](https://github.com/Zhong-Lab-UCSD/breast_cancer_recurrence_classifier)
+The data used is courtesy of Professor Sheng Zhong, which can be found on his lab [github.](https://github.com/Zhong-Lab-UCSD/breast_cancer_recurrence_classifier)
 
 This was the final project for CSE 283: Data Wrangling in Bioinformatics, Spring 2022. 
